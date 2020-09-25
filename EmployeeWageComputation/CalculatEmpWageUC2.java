@@ -1,4 +1,4 @@
-public class EmployeeAttendance{
+public class CalculatEmpWageUC2{
 	public static void main(String args[]){
 
 		int present = 1, fullday_hours= 8;

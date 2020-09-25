@@ -1,4 +1,4 @@
-public class EmployeeAttendance{
+public class EmployeeAttendanceUC1{
 	public static void main(String args[]){
 
 		int present = 1;
