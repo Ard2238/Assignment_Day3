@@ -1,4 +1,4 @@
-public class PartTimeWageUC3{
+public class SwitchCaseStatementsUC4{
 	public static void main(String args[]){
 
 		int present_fulltime = 1, present_parttime = 2, work_hours = 0;
